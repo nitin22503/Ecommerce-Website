@@ -1,0 +1,12 @@
+	<----------------- 	GIT HUB COMMANDS	--------------->
+	## touch .git ignore
+	## git config --global user.name "nitin22503"
+	## git config --global user.email "nitinvnverma@gmail.com"
+	## git init
+	## git add .
+	## git commit -m "initial commit"
+	## git status (optional)
+	## ssh-keygen -t rsa -b 4096 - C "nitinvnverma@gmail.com"
+	## tail <path to id_rsa.pub> **add this keyy to your git hub account
+	## git remote add origin <ssh url.git>
+	## gti push origin master
